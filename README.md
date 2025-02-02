@@ -33,3 +33,5 @@
 ## Optional Additional Sources
 
 - [Learn JavaScript DOM Manipulation – Tutorial for Beginners](https://www.youtube.com/watch?v=IWRS_AM2fiE)
+
+## See Ressources folder for summaries of the given Tasks!
