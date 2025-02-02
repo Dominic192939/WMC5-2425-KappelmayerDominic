@@ -1,4 +1,5 @@
 # Learning Path - WMC5
+## See Ressources folder for summaries of the given Tasks!
 
 1. Finish either the JavaScript Course on Codecademy or the one from freeCodeCamp
 
@@ -28,10 +29,8 @@
 
    | Task      | Duration| Progress (time or %) | Completed |
    |-----------|-----------|-----------|-----------|
-   | [Node.js and Express.js - Full Course](https://www.youtube.com/watch?app=desktop&v=Oe421EPjeBE) |    8h 17min      | 4h 03min (Stopped at HTTP Basics)       | NO       |
+   | [Node.js and Express.js - Full Course](https://www.youtube.com/watch?app=desktop&v=Oe421EPjeBE) |    8h 17min      | 100%       | YES       |
 
 ## Optional Additional Sources
 
 - [Learn JavaScript DOM Manipulation – Tutorial for Beginners](https://www.youtube.com/watch?v=IWRS_AM2fiE)
-
-## See Ressources folder for summaries of the given Tasks!
